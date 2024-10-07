@@ -6,7 +6,7 @@
 |------|-----------------------------------------------|------|
 | 1    | Infrastructure-as-Code Discovery              | [Link](#) |
 | 2    | Database & HTTP API Deployment                | [Link](https://github.com/juniortej/cloud-computing-junia-isen/tree/main/week-2) |
-| 3    | Security #1 - Authentication & Authorization in the Cloud | [Link](#) |
+| 3    | Security #1 - Authentication & Authorization in the Cloud - terraform modules| [Link](#) |
 
 ---
 
